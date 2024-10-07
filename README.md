@@ -31,6 +31,6 @@
 
 ###
 
-<img src="https://githubusercontent.com/liufeng2317/liufeng2317/output/snake.svg" alt="Snake animation" />
+<img src="./snake.svg" alt="Snake animation" />
 
 ###
