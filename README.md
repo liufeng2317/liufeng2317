@@ -25,8 +25,12 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/liufeng2317/count.svg?"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/liufeng2317/liufeng2317/output/snake.svg" alt="Snake animation" />
+###
+
+<img src="https://githubusercontent.com/liufeng2317/liufeng2317/output/snake.svg" alt="Snake animation" />
 
 ###
