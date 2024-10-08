@@ -30,7 +30,3 @@
 </div>
 
 ###
-
-<img src="./snake.svg" alt="Snake animation" />
-
-###
