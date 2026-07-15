@@ -1,9 +1,9 @@
-<h1 align="center">Liu Feng's Github Daily</h1>
+<h1 align="center">Liu Feng's GitHub Daily</h1>
 
 Hi, I'm Liu Feng 👋.
 
-△ Working on geophysics-related research and exploration.  
-✦ Interested in seismology and deep learning for Earth science.  
-◉ Ask me about seismology, scientific computing, and multi-agent systems.  
-◇ Looking to collaborate on research tools and data-processing workflows.  
+△ Working on geophysics, with a focus on seismic monitoring and seismic inversion.  
+✦ Interested in seismology, subsurface imaging, and large-earthquake analysis.  
+◉ Ask me about seismic monitoring and seismic inversion.  
+◇ Looking to collaborate on geophysical research tools and seismic data-processing workflows.  
 ✎ I use this space to share notes, experiments, and small projects on programming and geophysics.
